@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D953F45-B440-4418-B102-2E532A8D7B4F}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D953F45-B440-4418-B102-2E532A8D7B4F}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D780C-76E8-4A6C-AD6A-B1B953D784F2}|ProductManagement\\ProductManagement.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D780C-76E8-4A6C-AD6A-B1B953D784F2}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32F2378-D194-4379-B4BD-7CC1C6770F66}|Services\\Services.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32F2378-D194-4379-B4BD-7CC1C6770F66}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32F2378-D194-4379-B4BD-7CC1C6770F66}|Services\\Services.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32F2378-D194-4379-B4BD-7CC1C6770F66}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D780C-76E8-4A6C-AD6A-B1B953D784F2}|ProductManagement\\ProductManagement.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D780C-76E8-4A6C-AD6A-B1B953D784F2}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D953F45-B440-4418-B102-2E532A8D7B4F}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\minhl\\onedrive\\desktop\\ass c sharp\\productmanagementdemo\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D953F45-B440-4418-B102-2E532A8D7B4F}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:49:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:49:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:49:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAqwJYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:46:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:35:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\minhl\\OneDrive\\Desktop\\Ass C sharp\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:33:40.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
